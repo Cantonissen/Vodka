@@ -12,7 +12,7 @@
         <div id="contactheader">
             <h1>Contact</h1>
         </div>
-        <iframe id="adres" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.7908795350368!2d5.275353615770525!3d52.39234117979026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c617c1dcedf6af%3A0xb7e60f149191e0f!2sMBO%20College%20Almere%20-%20ROC%20van%20Flevoland!5e0!3m2!1snl!2snl!4v1575883442493!5m2!1snl!2snl" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        <iframe id="adres" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2434.7908795350368!2d5.275353615770525!3d52.39234117979026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c617c1dcedf6af%3A0xb7e60f149191e0f!2sMBO%20College%20Almere%20-%20ROC%20van%20Flevoland!5e0!3m2!1snl!2snl!4v1575883442493!5m2!1snl!2snl" width="100%" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
         <div id="adresgegevens">
             <h3>Adresgegevens</h3>
             <p>Straat van Florida 1</p><br>
